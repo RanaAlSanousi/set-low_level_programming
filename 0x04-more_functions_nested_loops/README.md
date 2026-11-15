@@ -18,3 +18,4 @@ checks, drawing shapes in the terminal with `_putchar`, and FizzBuzz.
 | `main.h` | Header file with function prototypes |
 | `0-isupper.c` | Checks for an uppercase character |
 | `1-isdigit.c` | Checks for a digit (0 through 9) |
+| `2-mul.c` | Multiplies two integers |
